@@ -21,7 +21,7 @@ const Header = () => (
         <div className='collapse navbar-collapse' id='navbarNav'>
           <ul className='navbar-nav'>
             <li className='nav-item'>
-              <NavLink className='nav-link' activeClassName="active" aria-current='page' to='/'>
+              <NavLink className='nav-link' activeClassName="active" to='/'>
                 Home
               </NavLink>
             </li>
